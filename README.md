@@ -2,7 +2,11 @@
 
 A modern, feature-rich stopwatch application built with React and Vite. This application provides precise time tracking with lap timing, theme switching, and keyboard shortcuts for seamless user experience.
 
-## 🌟 Features
+## � Live Demo
+
+[**Try the Stopwatch Now!**](https://quantum-quartz.netlify.app/)
+
+## �🌟 Features
 
 ### Core Functionality
 - **Precise Timing** - Accurate timer with 10-millisecond precision
